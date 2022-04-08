@@ -1,1 +1,2 @@
-# <i>Nima Razmjoo</i> Personal Website
+# nimarzm/github.io
+Personal blog
