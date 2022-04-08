@@ -1,2 +1,2 @@
-# nimarzm/github.io
+# nimarzm.github.io
 Personal blog
