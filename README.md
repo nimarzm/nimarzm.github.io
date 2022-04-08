@@ -1,2 +1,1 @@
-# nimarzm
-<i>Nima Razmjoo</i> Personal Website
+# <i>Nima Razmjoo</i> Personal Website
